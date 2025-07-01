@@ -4,6 +4,9 @@
 
 ## 🎮 دمو
 
+<p align="center">
+  <img src="demo.jpg" alt="نمایش بازی مار" width="600"/>
+</p>
 
 ---
 
